@@ -196,6 +196,8 @@ body {
   display: block;
   letter-spacing: 0.06em;
   color: #ffffff;
+  border: transparent;
+  border-radius: 4px;
   background-color: #2196f3;
   margin: 0 auto;
   height: 50px;
