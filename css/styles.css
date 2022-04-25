@@ -118,7 +118,7 @@ body {
   content: "";
   position: absolute;
   display: block;
-  bottom: 0;
+  bottom: -1px;
   left: 0;
 
   height: 4px;
